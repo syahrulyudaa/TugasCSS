@@ -1,0 +1,115 @@
+body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 800px;
+    margin: 0px auto;
+    padding-top: 40px;
+    display: flex;
+}
+
+.gambar {
+    width: 50%;
+    margin-right: 15px;
+}
+
+.img-iklan {
+    width: 100%;
+}
+
+.card-form {
+    width: 44%;
+    margin-left: 15px;
+}
+
+.card-1 {
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 2px;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.card-2 {
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 2px;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-size: 14px;
+}
+
+.card-3 {
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.logo {
+    width: 175px;
+    margin-top: 5px;
+}
+
+.form {
+    margin-top: 30px;
+}
+
+.input {
+    width: 300px;
+    height: 30px;
+    border: 1px solid #cfcfcf;
+    border-radius: 5px;
+    padding: 4px;
+    margin-top: 5px;
+}
+
+.btn {
+    background-color: #0095f6;
+    border: 0px solid transparent;
+    margin-top: 15px;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+}
+
+.or {
+    color: gray;
+    font-size: 13px;
+}
+
+.login-with {
+    color: #182f74;
+    text-decoration: none;
+}
+
+.forgot {
+    color: grey;
+    text-decoration: none;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.signup {
+    color: #0095f6;
+    text-decoration: none;
+}
+
+.img-getapp {
+    width: 80%;
+}
+
+.footer-1 {
+    color: grey;
+    font-size: 12px;
+    margin-top: 40px;
+}
+
+.footer-2 {
+    color: grey;
+    font-size: 12px;
+}
